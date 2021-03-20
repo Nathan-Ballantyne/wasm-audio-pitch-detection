@@ -5,7 +5,7 @@ Tutorial followed from [Peter Suggate](https://github.com/peter-suggate) at http
 Assuming prerequisites are installed, the following steps should get the app running on your system:
 
 ``` sh
-git clone git@github.com:peter-suggate/wasm-audio-app.git
+git clone git@github.com:peter-suggate/wasm-audio-app.git or https://github.com/Nathan-Ballantyne/wasm-audio-pitch-detection.git
 cd wasm-audio-app/wasm-audio/
 wasm-pack build --target web
 cd ..
